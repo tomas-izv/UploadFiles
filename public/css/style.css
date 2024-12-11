@@ -4,12 +4,12 @@ body {
     font-family: Montserrat;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: darkgray;
+    color: red;
 }
 
 .navbar {
-    background-color: #b2eeff;
+    background-color: #f8fc34;
     padding: 10px 20px;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 .navbar-links a:hover {
-    color: #ddd;
+    color: red;
 }
 
 /* Container Styles */
@@ -64,7 +64,7 @@ body {
 
 .alert.error {
     background-color: #f8d7da;
-    color: #721c24;
+    color: red;
     border: 1px solid #f5c6cb;
 }
 
@@ -89,8 +89,8 @@ body {
 }
 
 .submit-button {
-    background-color:#2499c7;
-    color: white;
+    background-color:#f8fc34;
+    color: black;
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
@@ -101,7 +101,8 @@ body {
 }
 
 .submit-button:hover {
-    background-color:#1c7192;
+    background-color:black;
+    color: #f8fc34;
 }
 
 
